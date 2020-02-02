@@ -1840,6 +1840,25 @@
     ],
     "timestamp": "Mar/05/2021 18:43"
   },
+  "CF70095963": {
+    "contest_id": 1291,
+    "language": "GNU C++17",
+    "path": "codeforces/1291/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mind Control",
+    "problem_url": "https://codeforces.com/contest/1291/problem/C",
+    "submission_id": "CF70095963",
+    "submission_url": "https://codeforces.com/contest/1291/submission/70095963",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Feb/03/2020 01:44"
+  },
   "CF70129222": {
     "contest_id": 1277,
     "language": "GNU C++17",
