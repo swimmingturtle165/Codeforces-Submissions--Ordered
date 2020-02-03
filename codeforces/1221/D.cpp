@@ -155,7 +155,7 @@ signed main(int argc, char** argv)
                 {
                     if(a[i]+j!=a[i-1]+k)
                     {
-                        temp = min(temp, tab[k][i-1]+b[i]*j);
+                        temp = min(temp, tab[k][i-1]+b[i]*(ll)j);
                     }
                 }
                 tab[j][i]=temp;
