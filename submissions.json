@@ -1840,6 +1840,24 @@
     ],
     "timestamp": "Mar/05/2021 18:43"
   },
+  "CF70143415": {
+    "contest_id": 1221,
+    "language": "GNU C++17",
+    "path": "codeforces/1221/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "2048 Game",
+    "problem_url": "https://codeforces.com/contest/1221/problem/A",
+    "submission_id": "CF70143415",
+    "submission_url": "https://codeforces.com/contest/1221/submission/70143415",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Feb/03/2020 17:29"
+  },
   "CF70147856": {
     "contest_id": 1221,
     "language": "GNU C++17",
