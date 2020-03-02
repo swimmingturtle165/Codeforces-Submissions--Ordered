@@ -1840,6 +1840,25 @@
     ],
     "timestamp": "Mar/05/2021 18:43"
   },
+  "CF72254318": {
+    "contest_id": 1307,
+    "language": "GNU C++17",
+    "path": "codeforces/1307/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cow and Message",
+    "problem_url": "https://codeforces.com/contest/1307/problem/C",
+    "submission_id": "CF72254318",
+    "submission_url": "https://codeforces.com/contest/1307/submission/72254318",
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Mar/02/2020 20:20"
+  },
   "CF72288049": {
     "contest_id": 1313,
     "language": "GNU C++17",
