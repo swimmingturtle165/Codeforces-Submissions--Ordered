@@ -1840,6 +1840,23 @@
     ],
     "timestamp": "Mar/05/2021 18:43"
   },
+  "CF72958923": {
+    "contest_id": 1311,
+    "language": "GNU C++17",
+    "path": "codeforces/1311/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "WeirdSort",
+    "problem_url": "https://codeforces.com/contest/1311/problem/B",
+    "submission_id": "CF72958923",
+    "submission_url": "https://codeforces.com/contest/1311/submission/72958923",
+    "tags": [
+      "dfs and similar",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Mar/11/2020 19:18"
+  },
   "CF72959899": {
     "contest_id": 1311,
     "language": "GNU C++17",
