@@ -220,47 +220,44 @@ signed main(int argc, char** argv)
         cout<<str<<endl;
         continue;
     }
-    else
-    {
+    else{
+        
+        string s=str;
+        ll po=st;
+        ll qo=end;
+            string ans = s.substr(0, po), ansp = ans;
+      string f = s.substr(po, qo-po+1);
+      for(int i = 0; i < f.size()/2; i++)
+      {
+          swap(f[i], f[f.size()-i-1]);
+      }
 
-       string f=str.substr(st,(end-st+1));
-       string g=f;
-       reverse(g.begin(),g.end());
-       string ch1=f+'*'+g;
-       string ch2=g+'*'+f;
-    //    cout<<ch1<<endl;
-       pi.clear();
-       FOR(i,0,ch1.size())
-       {
-           pi.pb(0);
-       }
-       prefix_function(ch1);
-       string s1=ch1.substr(0,pi[ch1.size()-1]);
-        FOR(i,0,ch1.size())
-       {
-           pi[i]=(0);
-       }
-       prefix_function(ch2);
-       string s2=ch2.substr(0,pi[pi.size()-1]);
-    //    cout<<ch1<<" "<<ch2<<endl;
-    //    cout<<s1<<"**"<<s2<<endl;
-       if(s1.size()>s2.size())
-       {
-           string tmp1=str.substr(0,st);
-           string tmp2=tmp1;
-           reverse(tmp1.begin(),tmp1.end());
-           answ=tmp2+s1+tmp1;
-
-       }
-       else
-       {           
-            string tmp1=str.substr(0,st);
-           string tmp2=tmp1;
-           reverse(tmp1.begin(),tmp1.end());
-           answ=tmp2+s2+tmp1;
-       }
-       cout<<answ<<endl;       
-       
+      
+            string w = s.substr(po, qo-po+1) + "*" + f;
+            pi.clear();
+            for(int i = 0; i < w.size(); i++)pi.push_back(0);
+            prefix_function(w);
+            for(int i = 0; i < pi[w.size()-1]; i++){
+                  ans.push_back(w[i]);
+            }
+            for(int i = qo+1; i < n; i++){
+                  ans.push_back(s[i]);
+            }
+      
+      
+            string w2 = f + "*" + s.substr(po, qo-po+1);
+            pi.clear();
+            for(int i = 0; i < w2.size(); i++)pi.push_back(0);
+            prefix_function(w2);
+            for(int i = 0; i < pi[w2.size()-1]; i++){
+                  ansp.push_back(w2[i]);
+            }
+            for(int i = qo+1; i < n; i++){
+                  ansp.push_back(s[i]);
+            }
+      
+      if(ansp.size() > ans.size())ans = ansp;
+      cout << ans << '\n';
         
     }
   
