@@ -1840,6 +1840,22 @@
     ],
     "timestamp": "Mar/05/2021 18:43"
   },
+  "CF74323005": {
+    "contest_id": 1101,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1101/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Division and Union",
+    "problem_url": "https://codeforces.com/contest/1101/problem/C",
+    "submission_id": "CF74323005",
+    "submission_url": "https://codeforces.com/contest/1101/submission/74323005",
+    "tags": [
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Mar/25/2020 23:30"
+  },
   "CF74333042": {
     "contest_id": 546,
     "language": "GNU C++17 (64)",
