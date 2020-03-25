@@ -1840,6 +1840,25 @@
     ],
     "timestamp": "Mar/05/2021 18:43"
   },
+  "CF74336094": {
+    "contest_id": 298,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/298/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Parity Game",
+    "problem_url": "https://codeforces.com/contest/298/problem/C",
+    "submission_id": "CF74336094",
+    "submission_url": "https://codeforces.com/contest/298/submission/74336094",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "Mar/26/2020 02:26"
+  },
   "CF74338066": {
     "contest_id": 298,
     "language": "GNU C++17 (64)",
