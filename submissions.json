@@ -1840,6 +1840,24 @@
     ],
     "timestamp": "Mar/05/2021 18:43"
   },
+  "CF74260869": {
+    "contest_id": 1326,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1326/D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Prefix-Suffix Palindrome (Easy version)",
+    "problem_url": "https://codeforces.com/contest/1326/problem/D1",
+    "submission_id": "CF74260869",
+    "submission_url": "https://codeforces.com/contest/1326/submission/74260869",
+    "tags": [
+      "hashing",
+      "string suffix structures",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Mar/25/2020 12:04"
+  },
   "CF74260894": {
     "contest_id": 1326,
     "language": "GNU C++17 (64)",
