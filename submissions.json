@@ -1840,6 +1840,22 @@
     ],
     "timestamp": "Mar/05/2021 18:43"
   },
+  "CF74335275": {
+    "contest_id": 312,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/312/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Closest Pair",
+    "problem_url": "https://codeforces.com/contest/312/problem/C",
+    "submission_id": "CF74335275",
+    "submission_url": "https://codeforces.com/contest/312/submission/74335275",
+    "tags": [
+      "constructive algorithms",
+      "*1300"
+    ],
+    "timestamp": "Mar/26/2020 02:10"
+  },
   "CF74336094": {
     "contest_id": 298,
     "language": "GNU C++17 (64)",
