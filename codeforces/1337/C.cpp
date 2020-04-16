@@ -144,7 +144,7 @@ void dfs(ll curr,ll st)
 
     
   }
-  srt.pb({dist_frm_1[curr]-en_route[curr],curr});
+  srt[curr]={dist_frm_1[curr]-en_route[curr],curr};
   en_route[curr]++;
 }
 
@@ -166,6 +166,7 @@ signed main(int argc, char** argv)
       graphs.resize(n+1,vector<ll>());
       dist_frm_1.resize(n+1,0);
       en_route.resize(n+1,0);
+      srt.resize(n+1,{INT_MIN,INT_MIN});
       FOR(i,0,n-1)
       {
           ll a,b;
