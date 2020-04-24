@@ -1840,6 +1840,22 @@
     ],
     "timestamp": "Mar/05/2021 18:43"
   },
+  "CF77917916": {
+    "contest_id": 1009,
+    "language": "GNU C++17",
+    "path": "codeforces/1009/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Game Shopping",
+    "problem_url": "https://codeforces.com/contest/1009/problem/A",
+    "submission_id": "CF77917916",
+    "submission_url": "https://codeforces.com/contest/1009/submission/77917916",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/24/2020 19:19"
+  },
   "CF77938594": {
     "contest_id": 1009,
     "language": "GNU C++17",
