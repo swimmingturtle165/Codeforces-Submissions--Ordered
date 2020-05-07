@@ -207,35 +207,48 @@ signed main(int argc, char** argv)
     {
         ll n;
         cin>>n;
-        unordered_set<ll,custom_hash> strg1;
-        vector<ll>inp(n);
-        ll mini=INT_MAX;
-        ll maxi=INT_MIN;
+        vector<ll> inp(n);
 
         FOR(i,0,n){
             cin>>inp[i];
-            // strg2.insert(inp[i]+i);
-            
-
         }
+        
+        vector <bool> done (n,false);    
+        bool ans=true;
+        
 
-        FOR(i,0,n){
-            // cin>>inp[i];
-            // strg1.insert(inp[i]-i);
-            // strg2.insert(inp[i]+i);
-            ll v=i+inp[i%n];
+        FOR(i,0,n)
+        {
+          ll idx=i;
+         
+          
+            ll v=i+inp[i];
             if(v<0){
                 ll k=abs(v)/n;
                 k++;
                 k*=n;
                 v+=k;
             }
-            // mini=min(v,mini);
-            // maxi=max(v,maxi);
-            strg1.insert(v%n);
+            
+            
+            // v=v%n;
+            v=v%n;
+            if(done[v]){
+                ans=false;
+            }
+            done[v]=true;
+           
+
 
         }
-        if(strg1.size()==n ){
+        FOR(i,0,n){
+            if(done[i]==false){
+                ans=false;
+                break;
+            }
+        }
+        if(ans)
+        {
             cout<<"YES"<<endl;
         }
         else
