@@ -68,7 +68,11 @@ signed main(int argc, char** argv)
                 int curr=q.front();
                 // cout<<curr<<endl;
                 q.pop();
-                
+                if(x==curr)
+                {
+                    cnt+=q.size();
+                    break;
+                }
                 cnt++;
                 for(auto&it:graph[curr])
                 {
