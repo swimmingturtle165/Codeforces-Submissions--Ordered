@@ -1465,6 +1465,22 @@
     ],
     "timestamp": "Feb/18/2021 21:12"
   },
+  "CF93808397": {
+    "contest_id": 1065,
+    "language": "GNU C++17",
+    "path": "codeforces\\1065\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Make It Equal",
+    "problem_url": "https://codeforces.com/contest/1065/problem/C",
+    "submission_id": "CF93808397",
+    "submission_url": "https://codeforces.com/contest/1065/submission/93808397",
+    "tags": [
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Sep/25/2020 22:51"
+  },
   "CF93814441": {
     "contest_id": 215,
     "language": "GNU C++17",
