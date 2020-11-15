@@ -269,10 +269,46 @@ signed main(int argc, char** argv)
          cin >> inp[i];
 
         }   
+            
+        // if(n<=2)
+        // {
+        //     cout << "YES" << endl;
+        //     continue;
+        // }
+
+
+        // vector<ll> left_mini(n + 2, INT_MAX);
+        // vector<ll> right_mini(n + 2, INT_MAX);
+        // left_mini[0] = inp[0];
+        // right_mini[n - 1] = inp[n - 1];
         
+        // FOR(i,1,n)
+        // {
+        //     left_mini[i] = min(inp[i], left_mini[i-1]);
+        // }
+        
+        // FORDE(i,n-2,0)
+        // {
+        //     right_mini[i] = min(right_mini[i + 1], inp[i]);
+        // }
+        // int cnt = 0;
         bool flg = true;
-       
+        // dispvector<ll>(right_mini);
+        // dispvector<ll>(left_mini);
+        // int i = 0, j = n-1;
+        // while (i<n-1 && inp[i]>=inp[i+1])
+        // {
+        //     i++;
+        //     /* code */
+        // }
+        // while (j>0 && inp[j]>=inp[j-1])
+        // {
+        //     j--;
+        //     /* code */
+        // }
+        // cout << i << " " << j << endl;
         ll cnt = 0;
+        vector<ll> strg(n,0);
         FORDE(i,n-2,0)
         {
             inp[i] -= cnt;
