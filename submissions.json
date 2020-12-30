@@ -1,4 +1,22 @@
 {
+  "CF102864353": {
+    "contest_id": 126,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\126\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hot Bath",
+    "problem_url": "https://codeforces.com/contest/126/problem/A",
+    "submission_id": "CF102864353",
+    "submission_url": "https://codeforces.com/contest/126/submission/102864353",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Dec/31/2020 01:31"
+  },
   "CF102979121": {
     "contest_id": 1453,
     "language": "GNU C++17",
