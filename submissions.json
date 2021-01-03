@@ -1,4 +1,22 @@
 {
+  "CF103084241": {
+    "contest_id": 369,
+    "language": "GNU C++17",
+    "path": "codeforces\\369\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Valera and Elections",
+    "problem_url": "https://codeforces.com/contest/369/problem/C",
+    "submission_id": "CF103084241",
+    "submission_url": "https://codeforces.com/contest/369/submission/103084241",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Jan/03/2021 15:13"
+  },
   "CF103188008": {
     "contest_id": 1472,
     "language": "GNU C++17",
