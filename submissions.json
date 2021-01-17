@@ -1,4 +1,21 @@
 {
+  "CF104574333": {
+    "contest_id": 295,
+    "language": "GNU C++17",
+    "path": "codeforces\\295\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Greg and Array",
+    "problem_url": "https://codeforces.com/contest/295/problem/A",
+    "submission_id": "CF104574333",
+    "submission_url": "https://codeforces.com/contest/295/submission/104574333",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jan/17/2021 15:34"
+  },
   "CF104699984": {
     "contest_id": 295,
     "language": "GNU C++17",
