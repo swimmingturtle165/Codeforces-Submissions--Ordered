@@ -1,4 +1,21 @@
 {
+  "CF104716231": {
+    "contest_id": 1469,
+    "language": "GNU C++17",
+    "path": "codeforces\\1469\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Red and Blue",
+    "problem_url": "https://codeforces.com/contest/1469/problem/B",
+    "submission_id": "CF104716231",
+    "submission_url": "https://codeforces.com/contest/1469/submission/104716231",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Jan/19/2021 00:31"
+  },
   "CF104716900": {
     "contest_id": 1469,
     "language": "GNU C++17",
