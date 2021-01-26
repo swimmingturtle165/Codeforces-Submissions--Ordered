@@ -1,4 +1,23 @@
 {
+  "CF105446302": {
+    "contest_id": 1475,
+    "language": "GNU C++17",
+    "path": "codeforces\\1475\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Cleaning the Phone",
+    "problem_url": "https://codeforces.com/contest/1475/problem/D",
+    "submission_id": "CF105446302",
+    "submission_url": "https://codeforces.com/contest/1475/submission/105446302",
+    "tags": [
+      "binary search",
+      "dp",
+      "sortings",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Jan/26/2021 11:57"
+  },
   "CF105536449": {
     "contest_id": 1474,
     "language": "GNU C++17",
