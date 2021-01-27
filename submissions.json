@@ -1,4 +1,23 @@
 {
+  "CF105536449": {
+    "contest_id": 1474,
+    "language": "GNU C++17",
+    "path": "codeforces\\1474\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Cleaning",
+    "problem_url": "https://codeforces.com/contest/1474/problem/D",
+    "submission_id": "CF105536449",
+    "submission_url": "https://codeforces.com/contest/1474/submission/105536449",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Jan/27/2021 11:20"
+  },
   "CF105631557": {
     "contest_id": 1475,
     "language": "GNU C++17",
