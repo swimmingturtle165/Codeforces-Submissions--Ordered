@@ -271,7 +271,7 @@ signed main(int argc, char** argv)
         ll ans=-1;
         FOR(i,0,n)
         {
-            ll tmp=1;
+            ll tmp=0;
             while (st.size()>0 && inp[st.top()]<inp[i])
             {
                 tmp=max(tmp,strg[st.top()]+1);
@@ -279,10 +279,10 @@ signed main(int argc, char** argv)
             }
             if(st.size()==0)
             {
-                tmp=0;
+                tmp=-1;
             }
            strg[i]=tmp;
-           ans=max(ans,tmp);
+           ans=max(ans,tmp+1);
            st.push(i);
             
             
