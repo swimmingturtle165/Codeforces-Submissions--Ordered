@@ -1859,6 +1859,26 @@
     ],
     "timestamp": "Mar/06/2021 00:17"
   },
+  "CF109200466": {
+    "contest_id": 1491,
+    "language": "GNU C++17",
+    "path": "codeforces/1491/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Zookeeper and The Infinite Zoo",
+    "problem_url": "https://codeforces.com/contest/1491/problem/D",
+    "submission_id": "CF109200466",
+    "submission_url": "https://codeforces.com/contest/1491/submission/109200466",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Mar/06/2021 12:26"
+  },
   "CF109245864": {
     "contest_id": 1493,
     "language": "GNU C++17",
