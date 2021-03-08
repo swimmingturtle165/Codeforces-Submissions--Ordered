@@ -374,7 +374,7 @@ signed main(int argc, char** argv)
         oper[2] = 1;
         oper[3] = 4;
 
-        FOR(f,0,2)
+        FOR(f,0,10)
         {
 
         FOR(k,0,4)
