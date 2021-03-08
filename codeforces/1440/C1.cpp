@@ -377,7 +377,6 @@ signed main(int argc, char** argv)
         FOR(f,0,2)
         {
 
-
         FOR(k,0,4)
         {
             for (int i = 0; i < n; i +=2)
