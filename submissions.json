@@ -2089,6 +2089,28 @@
     ],
     "timestamp": "Mar/09/2021 00:36"
   },
+  "CF109505001": {
+    "contest_id": 1493,
+    "language": "GNU C++17",
+    "path": "codeforces/1493/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "GCD of an Array",
+    "problem_url": "https://codeforces.com/contest/1493/problem/D",
+    "submission_id": "CF109505001",
+    "submission_url": "https://codeforces.com/contest/1493/submission/109505001",
+    "tags": [
+      "data structures",
+      "hashing",
+      "implementation",
+      "math",
+      "number theory",
+      "sortings",
+      "two pointers",
+      "*2100"
+    ],
+    "timestamp": "Mar/09/2021 22:18"
+  },
   "CF69913967": {
     "contest_id": 1234,
     "language": "GNU C++17",
