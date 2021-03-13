@@ -2334,6 +2334,19 @@
     ],
     "timestamp": "Mar/12/2021 16:01"
   },
+  "CF109849725": {
+    "contest_id": 1501,
+    "language": "GNU C++17",
+    "path": "codeforces/1501/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Napoleon Cake",
+    "problem_url": "https://codeforces.com/contest/1501/problem/B",
+    "submission_id": "CF109849725",
+    "submission_url": "https://codeforces.com/contest/1501/submission/109849725",
+    "tags": [],
+    "timestamp": "Mar/13/2021 14:56"
+  },
   "CF109904352": {
     "contest_id": 1501,
     "language": "GNU C++17",
