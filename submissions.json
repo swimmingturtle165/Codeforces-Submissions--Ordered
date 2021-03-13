@@ -2334,6 +2334,22 @@
     ],
     "timestamp": "Mar/12/2021 16:01"
   },
+  "CF109904352": {
+    "contest_id": 1501,
+    "language": "GNU C++17",
+    "path": "codeforces/1501/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Going Home",
+    "problem_url": "https://codeforces.com/contest/1501/problem/C",
+    "submission_id": "CF109904352",
+    "submission_url": "https://codeforces.com/contest/1501/submission/109904352",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Mar/13/2021 20:35"
+  },
   "CF69913967": {
     "contest_id": 1234,
     "language": "GNU C++17",
