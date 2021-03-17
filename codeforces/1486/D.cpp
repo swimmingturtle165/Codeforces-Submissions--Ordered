@@ -269,7 +269,7 @@ signed main(int argc, char** argv)
         }
         ll left = 1, right = n+1;
         ll ans=0;
-        while (left<=right)
+        while (left+1<right)
         {
             ll mid = (left + right) / 2;
             ll maxi=INT_MIN, mini=INT_MAX;
@@ -293,16 +293,15 @@ signed main(int argc, char** argv)
             }
             if (sgt)
             {
-                ans=mid;
-                left = mid+1;
+                left = mid;
                 
             }
             else
             {
-                right = mid-1;
+                right = mid;
             }
         }
-        cout<<ans<<endl;
+        cout<<left<<endl;
     }
     return 0;
 }
