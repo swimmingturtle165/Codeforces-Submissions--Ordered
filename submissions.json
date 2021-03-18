@@ -2486,6 +2486,24 @@
     ],
     "timestamp": "Mar/18/2021 00:37"
   },
+  "CF110290055": {
+    "contest_id": 1455,
+    "language": "GNU C++17",
+    "path": "codeforces\\1455\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Sequence and Swaps",
+    "problem_url": "https://codeforces.com/contest/1455/problem/D",
+    "submission_id": "CF110290055",
+    "submission_url": "https://codeforces.com/contest/1455/submission/110290055",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Mar/18/2021 13:13"
+  },
   "CF110290218": {
     "contest_id": 1455,
     "language": "GNU C++17",

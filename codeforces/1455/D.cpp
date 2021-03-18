@@ -294,7 +294,6 @@ signed main(int argc, char** argv)
             {
                 flg=false;
             }
-            
              strg=inp;
             sort(strg.begin(),strg.end());
              flg1=true;
