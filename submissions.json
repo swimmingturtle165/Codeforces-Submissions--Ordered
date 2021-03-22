@@ -2692,6 +2692,23 @@
     ],
     "timestamp": "Mar/21/2021 20:13"
   },
+  "CF110712691": {
+    "contest_id": 59,
+    "language": "GNU C++17",
+    "path": "codeforces\\59\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Shortest Path",
+    "problem_url": "https://codeforces.com/contest/59/problem/E",
+    "submission_id": "CF110712691",
+    "submission_url": "https://codeforces.com/contest/59/submission/110712691",
+    "tags": [
+      "graphs",
+      "shortest paths",
+      "*2000"
+    ],
+    "timestamp": "Mar/22/2021 13:54"
+  },
   "CF110733139": {
     "contest_id": 450,
     "language": "GNU C++17",

@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-371 | [D - Jzzhu and Cities](https://codeforces.com/contest/450/problem/D) | [GNU C++17](./codeforces/450/D.cpp) | `graphs` `greedy` `shortest paths` `*2000` | Mar/22/2021 18:04 | 
+372 | [D - Jzzhu and Cities](https://codeforces.com/contest/450/problem/D) | [GNU C++17](./codeforces/450/D.cpp) | `graphs` `greedy` `shortest paths` `*2000` | Mar/22/2021 18:04 | 
+371 | [E - Shortest Path](https://codeforces.com/contest/59/problem/E) | [GNU C++17](./codeforces/59/E.cpp) | `graphs` `shortest paths` `*2000` | Mar/22/2021 13:54 | 
 370 | [C - Basic Diplomacy](https://codeforces.com/contest/1484/problem/C) | [GNU C++17](./codeforces/1484/C.cpp) | `combinatorics` `greedy` `implementation` | Mar/21/2021 20:13 | 
 369 | [B - Restore Modulo](https://codeforces.com/contest/1484/problem/B) | [GNU C++17](./codeforces/1484/B.cpp) | `implementation` `math` | Mar/21/2021 19:45 | 
 368 | [A - Prison Break](https://codeforces.com/contest/1484/problem/A) | [GNU C++17](./codeforces/1484/A.cpp) |  | Mar/21/2021 18:52 | 
