@@ -277,7 +277,7 @@ signed main(int argc, char** argv)
 
         vector<bool> ans1(n+1,false);
         
-        priority_queue<pll,vector<pll>,greater<pll>> pq;
+        set<pll> pq;
         ll cn=0;
         FOR(i,0,k)
         {
@@ -295,19 +295,15 @@ signed main(int argc, char** argv)
             ll cnt=0;
             vector<bool> vst(n+1,false);
             FOR(i,1,n+1)
-            pq.push({ans[i],i});
+            pq.insert({ans[i],i});
 
             while(!pq.empty())
             {
-                pll curr=pq.top();
-                pq.pop();
+                pll curr=*pq.begin();
+                pq.erase(pq.begin());
                 ll val=curr.f;
                 ll idx=curr.s;
                
-                if(vst[idx])
-                {
-                    continue;
-                }
                 // cout<<idx<<" "<<val<<" "<<ans[idx]<<endl;
                 if(ans1[idx] )
                 {
@@ -323,10 +319,10 @@ signed main(int argc, char** argv)
                 {
                         if(ans[idx]+it.s<=ans[it.f] && vst[it.f]==false)
                         {
-                        // pq.erase({ans[it.f],it.f});
+                        pq.erase({ans[it.f],it.f});
                         ans[it.f]=ans[idx]+it.s;
                         ans1[it.f]=false;
-                        pq.push({ans[it.f],it.f});
+                        pq.insert({ans[it.f],it.f});
 
                         }
                         // ans[it.first]=it.s+val;
