@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-382 | [C - Balance the Bits](https://codeforces.com/contest/1504/problem/C) | [GNU C++17](./codeforces/1504/C.cpp) | `constructive algorithms` `greedy` `*1600` | Apr/04/2021 12:35 | 
-381 | [D - 3-Coloring](https://codeforces.com/contest/1504/problem/D) | [GNU C++17](./codeforces/1504/D.cpp) | `constructive algorithms` `games` `graphs` `interactive` `*1700` | Apr/03/2021 21:11 | 
-380 | [B - Flip the Bits](https://codeforces.com/contest/1504/problem/B) | [GNU C++17](./codeforces/1504/B.cpp) | `constructive algorithms` `greedy` `implementation` `math` `*1200` | Apr/03/2021 20:25 | 
-379 | [A -  Déjà Vu](https://codeforces.com/contest/1504/problem/A) | [GNU C++17](./codeforces/1504/A.cpp) | `constructive algorithms` `strings` `*800` | Apr/03/2021 20:13 | 
+383 | [C - Balance the Bits](https://codeforces.com/contest/1504/problem/C) | [GNU C++17](./codeforces/1504/C.cpp) | `constructive algorithms` `greedy` `*1600` | Apr/04/2021 12:35 | 
+382 | [D - 3-Coloring](https://codeforces.com/contest/1504/problem/D) | [GNU C++17](./codeforces/1504/D.cpp) | `constructive algorithms` `games` `graphs` `interactive` `*1700` | Apr/03/2021 21:11 | 
+381 | [B - Flip the Bits](https://codeforces.com/contest/1504/problem/B) | [GNU C++17](./codeforces/1504/B.cpp) | `constructive algorithms` `greedy` `implementation` `math` `*1200` | Apr/03/2021 20:25 | 
+380 | [A -  Déjà Vu](https://codeforces.com/contest/1504/problem/A) | [GNU C++17](./codeforces/1504/A.cpp) | `constructive algorithms` `strings` `*800` | Apr/03/2021 20:13 | 
+379 | [K - The Robot](https://codeforces.com/contest/1468/problem/K) | [GNU C++17](./codeforces/1468/K.cpp) | `brute force` `implementation` `*1600` | Apr/01/2021 21:36 | 
 378 | [G - Maximize the Remaining String](https://codeforces.com/contest/1506/problem/G) | [GNU C++17](./codeforces/1506/G.cpp) | `brute force` `data structures` `dp` `greedy` `strings` `two pointers` `*2000` | Mar/26/2021 14:51 | 
 377 | [D - Epic Transformation](https://codeforces.com/contest/1506/problem/D) | [GNU C++17](./codeforces/1506/D.cpp) | `constructive algorithms` `data structures` `greedy` `*1400` | Mar/25/2021 23:20 | 
 376 | [E - Restoring the Permutation](https://codeforces.com/contest/1506/problem/E) | [GNU C++17](./codeforces/1506/E.cpp) | `constructive algorithms` `data structures` `dsu` `greedy` `*1500` | Mar/25/2021 22:03 | 
