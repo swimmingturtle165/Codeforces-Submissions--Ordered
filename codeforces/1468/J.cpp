@@ -315,7 +315,6 @@ signed main(int argc, char** argv)
                 
             }
         }
-        
         if(ans==0)
         {
             ans=INT_MAX;
