@@ -3191,6 +3191,27 @@
     ],
     "timestamp": "Apr/10/2021 16:43"
   },
+  "CF112759312": {
+    "contest_id": 1513,
+    "language": "GNU C++17",
+    "path": "codeforces\\1513\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "GCD and MST",
+    "problem_url": "https://codeforces.com/contest/1513/problem/D",
+    "submission_id": "CF112759312",
+    "submission_url": "https://codeforces.com/contest/1513/submission/112759312",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dsu",
+      "graphs",
+      "implementation",
+      "number theory",
+      "sortings"
+    ],
+    "timestamp": "Apr/12/2021 13:39"
+  },
   "CF69913967": {
     "contest_id": 1234,
     "language": "GNU C++17",
