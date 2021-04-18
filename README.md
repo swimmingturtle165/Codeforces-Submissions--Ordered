@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+415 | [F - Subsequences of Length Two](https://codeforces.com/contest/1409/problem/F) | [GNU C++17 (64)](./codeforces/1409/F.cpp) | `dp` `strings` `*2100` | Apr/18/2021 15:40 | 
 414 | [E - Johnny and Grandmaster](https://codeforces.com/contest/1362/problem/E) | [GNU C++17](./codeforces/1362/E.cpp) | `data structures` `greedy` `implementation` `math` `number theory` `sortings` `two pointers` `*1900` | Apr/13/2021 22:45 | 
 413 | [E - Tree Shuffling](https://codeforces.com/contest/1363/problem/E) | [GNU C++17](./codeforces/1363/E.cpp) | `dfs and similar` `dp` `greedy` `trees` `*2000` | Apr/13/2021 22:44 | 
 412 | [E - Maximum Subsequence Value](https://codeforces.com/contest/1365/problem/E) | [GNU C++17](./codeforces/1365/E.cpp) | `brute force` `constructive algorithms` `*1900` | Apr/13/2021 22:43 | 
