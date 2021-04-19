@@ -247,6 +247,7 @@ bool find(vector<ll>&Arr,int A,int B)
     else
     return false;
 }
+   
 
 ll solve(ll idx,ll cnt, ll lft, vector<vector<vector<ll>>>& dp,string & str,string & t)
 {
@@ -285,7 +286,6 @@ ll solve(ll idx,ll cnt, ll lft, vector<vector<vector<ll>>>& dp,string & str,stri
 
 }   
 
-
 signed main(int argc, char** argv)
 {
     #ifndef ONLINE_JUDGE
@@ -299,28 +299,50 @@ signed main(int argc, char** argv)
     {
         ll n,k;
         cin>>n>>k;
-        string str,t;
-        cin>>str>>t;
-        if(t[0]==t[1])
-        {
-            ll v1=0;
-            FOR(i,0,n) if(str[i]==t[0]) v1++;
-
-            v1+=k;
-
-            v1=min(v1,n);
-            
-
-            cout<<(v1*(v1-1))/2<<endl;
-            break;
-        }
-
-      
-
-        vector<vector<vector<ll>>> dp(n+1,vector<vector<ll>>(k+1,vector<ll>(n+1,-1)));
-
+        string a,b;
+        cin>>a>>b;
+        vector<vector<vector<ll>>> dp(n+1,vector<vector<ll>>(k+2,vector<ll>(n+2,INT64_MIN)));
+        dp[0][0][0]=0;
         
-        cout<<solve(0,0,k,dp,str,t)<<endl;
+            FOR(i,0,n)
+            {
+                FOR(j,0,k+1)
+                {
+                    FOR(m,0,n+1)
+                    {
+
+                       
+                        
+                        ll a1=a[i]==b[0]?1:0;
+                        ll a2=a[i]==b[1]?1:0;
+                        ll a3=b[0]==b[1]?1:0;
+
+                        // Don't change ith character
+                        dp[i+1][j][m+a1]=max(dp[i+1][j][m+a1],dp[i][j][m]+a2*m); 
+
+                        // change a[i] to b[0]
+                        dp[i+1][j+1][m+1]=max(dp[i+1][j+1][m+1],dp[i][j][m]+a3*(m));    
+
+                        // change a[i] t0 b[1]
+                        dp[i+1][j+1][m+a3]=max(dp[i+1][j+1][m+a3],dp[i][j][m]+m); 
+
+                        
+                    }
+
+                }
+            }
+            ll ans=0;
+            FOR(i,0,n+1)
+            {
+                FOR(j,0,k+1)
+                {
+                    FOR(m,0,n+1)
+                    {
+                        ans=max(ans,dp[i][j][m]);
+                    }
+                }
+            }
+            cout<<ans<<endl;
         
     }
     return 0;
