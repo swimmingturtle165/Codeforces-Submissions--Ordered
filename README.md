@@ -12,15 +12,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-428 | [D - New Year and the Permutation Concatenation](https://codeforces.com/contest/1091/problem/D) | [GNU C++17 (64)](./codeforces/1091/D.cpp) | `combinatorics` `dp` `math` `*1700` | May/03/2021 23:16 | 
-427 | [D - Phoenix and Socks](https://codeforces.com/contest/1515/problem/D) | [GNU C++17 (64)](./codeforces/1515/D.cpp) | `greedy` `sortings` `two pointers` `*1500` | May/02/2021 21:33 | 
-426 | [C - Phoenix and Towers](https://codeforces.com/contest/1515/problem/C) | [GNU C++17 (64)](./codeforces/1515/C.cpp) | `constructive algorithms` `data structures` `greedy` `*1400` | May/02/2021 20:44 | 
-425 | [B - Phoenix and Puzzle](https://codeforces.com/contest/1515/problem/B) | [GNU C++17 (64)](./codeforces/1515/B.cpp) | `brute force` `geometry` `math` `number theory` `*1000` | May/02/2021 20:24 | 
-424 | [A - Phoenix and Gold](https://codeforces.com/contest/1515/problem/A) | [GNU C++17 (64)](./codeforces/1515/A.cpp) | `constructive algorithms` `math` `*800` | May/02/2021 20:09 | 
-423 | [D - Binary Literature](https://codeforces.com/contest/1509/problem/D) | [GNU C++17 (64)](./codeforces/1509/D.cpp) | `constructive algorithms` `greedy` `strings` `two pointers` `*1900` | May/02/2021 00:11 | 
-422 | [D - Maximum Sum of Products](https://codeforces.com/contest/1519/problem/D) | [GNU C++17 (64)](./codeforces/1519/D.cpp) | `brute force` `dp` `implementation` `math` `two pointers` `*1600` | Apr/30/2021 13:42 | 
-421 | [C - Berland Regional](https://codeforces.com/contest/1519/problem/C) | [GNU C++17 (64)](./codeforces/1519/C.cpp) | `brute force` `data structures` `greedy` `number theory` `sortings` `*1400` | Apr/29/2021 21:16 | 
-420 | [B - The Cake Is a Lie](https://codeforces.com/contest/1519/problem/B) | [GNU C++17 (64)](./codeforces/1519/B.cpp) | `dp` `math` `*800` | Apr/29/2021 20:50 | 
+429 | [D - New Year and the Permutation Concatenation](https://codeforces.com/contest/1091/problem/D) | [GNU C++17 (64)](./codeforces/1091/D.cpp) | `combinatorics` `dp` `math` `*1700` | May/03/2021 23:16 | 
+428 | [D - Phoenix and Socks](https://codeforces.com/contest/1515/problem/D) | [GNU C++17 (64)](./codeforces/1515/D.cpp) | `greedy` `sortings` `two pointers` `*1500` | May/02/2021 21:33 | 
+427 | [C - Phoenix and Towers](https://codeforces.com/contest/1515/problem/C) | [GNU C++17 (64)](./codeforces/1515/C.cpp) | `constructive algorithms` `data structures` `greedy` `*1400` | May/02/2021 20:44 | 
+426 | [B - Phoenix and Puzzle](https://codeforces.com/contest/1515/problem/B) | [GNU C++17 (64)](./codeforces/1515/B.cpp) | `brute force` `geometry` `math` `number theory` `*1000` | May/02/2021 20:24 | 
+425 | [A - Phoenix and Gold](https://codeforces.com/contest/1515/problem/A) | [GNU C++17 (64)](./codeforces/1515/A.cpp) | `constructive algorithms` `math` `*800` | May/02/2021 20:09 | 
+424 | [D - Binary Literature](https://codeforces.com/contest/1509/problem/D) | [GNU C++17 (64)](./codeforces/1509/D.cpp) | `constructive algorithms` `greedy` `strings` `two pointers` `*1900` | May/02/2021 00:11 | 
+423 | [D - Maximum Sum of Products](https://codeforces.com/contest/1519/problem/D) | [GNU C++17 (64)](./codeforces/1519/D.cpp) | `brute force` `dp` `implementation` `math` `two pointers` `*1600` | Apr/30/2021 13:42 | 
+422 | [C - Berland Regional](https://codeforces.com/contest/1519/problem/C) | [GNU C++17 (64)](./codeforces/1519/C.cpp) | `brute force` `data structures` `greedy` `number theory` `sortings` `*1400` | Apr/29/2021 21:16 | 
+421 | [B - The Cake Is a Lie](https://codeforces.com/contest/1519/problem/B) | [GNU C++17 (64)](./codeforces/1519/B.cpp) | `dp` `math` `*800` | Apr/29/2021 20:50 | 
+420 | [A - Red and Blue Beans](https://codeforces.com/contest/1519/problem/A) | [GNU C++17 (64)](./codeforces/1519/A.cpp) | `math` `*800` | Apr/29/2021 20:06 | 
 419 | [F - Subsequences of Length Two](https://codeforces.com/contest/1409/problem/F) | [GNU C++17 (64)](./codeforces/1409/F.cpp) | `dp` `strings` `*2100` | Apr/18/2021 15:40 | 
 418 | [F - Three Paths on a Tree](https://codeforces.com/contest/1294/problem/F) | [GNU C++17 (64)](./codeforces/1294/F.cpp) | `dfs and similar` `dp` `greedy` `trees` `*2000` | Apr/18/2021 11:09 | 
 417 | [A - Average Height](https://codeforces.com/contest/1509/problem/A) | [GNU C++17 (64)](./codeforces/1509/A.cpp) | `constructive algorithms` | Apr/16/2021 20:06 | 
