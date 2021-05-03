@@ -3613,6 +3613,24 @@
     ],
     "timestamp": "Apr/18/2021 15:40"
   },
+  "CF115060631": {
+    "contest_id": 1091,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1091\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "New Year and the Permutation Concatenation",
+    "problem_url": "https://codeforces.com/contest/1091/problem/D",
+    "submission_id": "CF115060631",
+    "submission_url": "https://codeforces.com/contest/1091/submission/115060631",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/03/2021 23:16"
+  },
   "CF69913967": {
     "contest_id": 1234,
     "language": "GNU C++17",
