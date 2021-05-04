@@ -12,20 +12,21 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-446 | [C - Baby Ehab Partitions Again](https://codeforces.com/contest/1516/problem/C) | [GNU C++17 (64)](./codeforces/1516/C.cpp) | `bitmasks` `constructive algorithms` `dp` `math` `*1700` | May/10/2021 01:11 | 
-445 | [B - AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | [GNU C++17 (64)](./codeforces/1516/B.cpp) | `bitmasks` `brute force` `dp` `greedy` `*1500` | May/10/2021 00:40 | 
-444 | [C - Nastia and a Hidden Permutation](https://codeforces.com/contest/1521/problem/C) | [GNU C++17 (64)](./codeforces/1521/C.cpp) | `constructive algorithms` `interactive` `*2000` | May/09/2021 21:44 | 
-443 | [B - Nastia and a Good Array](https://codeforces.com/contest/1521/problem/B) | [GNU C++17 (64)](./codeforces/1521/B.cpp) | `constructive algorithms` `math` `number theory` `*1300` | May/09/2021 15:55 | 
-442 | [C - Peaceful Rooks](https://codeforces.com/contest/1465/problem/C) | [GNU C++17 (64)](./codeforces/1465/C.cpp) | `dfs and similar` `dsu` `greedy` `implementation` `*1700` | May/09/2021 14:53 | 
-441 | [B - Fair Numbers](https://codeforces.com/contest/1465/problem/B) | [GNU C++17 (64)](./codeforces/1465/B.cpp) | `brute force` `math` `number theory` `*1000` | May/08/2021 23:28 | 
-440 | [A - In-game Chat](https://codeforces.com/contest/1465/problem/A) | [GNU C++17 (64)](./codeforces/1465/A.cpp) | `implementation` `strings` `*800` | May/08/2021 23:13 | 
-439 | [A - Nastia and Nearly Good Numbers](https://codeforces.com/contest/1521/problem/A) | [GNU C++17 (64)](./codeforces/1521/A.cpp) | `constructive algorithms` `math` `number theory` `*1000` | May/07/2021 20:48 | 
-438 | [F1 - Guess the K-th Zero (Easy version)](https://codeforces.com/contest/1520/problem/F1) | [GNU C++17 (64)](./codeforces/1520/F1.cpp) | `binary search` `interactive` `*1600` | May/05/2021 21:27 | 
-437 | [E - Arranging The Sheep](https://codeforces.com/contest/1520/problem/E) | [GNU C++17 (64)](./codeforces/1520/E.cpp) | `greedy` `math` `*1400` | May/05/2021 21:06 | 
-436 | [C - Not Adjacent Matrix](https://codeforces.com/contest/1520/problem/C) | [GNU C++17 (64)](./codeforces/1520/C.cpp) | `constructive algorithms` `*1000` | May/05/2021 20:49 | 
-435 | [D - Same Differences](https://codeforces.com/contest/1520/problem/D) | [GNU C++17 (64)](./codeforces/1520/D.cpp) | `data structures` `hashing` `math` `*1200` | May/05/2021 20:30 | 
-434 | [B - Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | [GNU C++17 (64)](./codeforces/1520/B.cpp) | `brute force` `math` `number theory` `*800` | May/05/2021 20:17 | 
-433 | [A - Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | [GNU C++17 (64)](./codeforces/1520/A.cpp) | `brute force` `implementation` `*800` | May/05/2021 20:08 | 
+447 | [C - Baby Ehab Partitions Again](https://codeforces.com/contest/1516/problem/C) | [GNU C++17 (64)](./codeforces/1516/C.cpp) | `bitmasks` `constructive algorithms` `dp` `math` `*1700` | May/10/2021 01:11 | 
+446 | [B - AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | [GNU C++17 (64)](./codeforces/1516/B.cpp) | `bitmasks` `brute force` `dp` `greedy` `*1500` | May/10/2021 00:40 | 
+445 | [C - Nastia and a Hidden Permutation](https://codeforces.com/contest/1521/problem/C) | [GNU C++17 (64)](./codeforces/1521/C.cpp) | `constructive algorithms` `interactive` `*2000` | May/09/2021 21:44 | 
+444 | [B - Nastia and a Good Array](https://codeforces.com/contest/1521/problem/B) | [GNU C++17 (64)](./codeforces/1521/B.cpp) | `constructive algorithms` `math` `number theory` `*1300` | May/09/2021 15:55 | 
+443 | [C - Peaceful Rooks](https://codeforces.com/contest/1465/problem/C) | [GNU C++17 (64)](./codeforces/1465/C.cpp) | `dfs and similar` `dsu` `greedy` `implementation` `*1700` | May/09/2021 14:53 | 
+442 | [B - Fair Numbers](https://codeforces.com/contest/1465/problem/B) | [GNU C++17 (64)](./codeforces/1465/B.cpp) | `brute force` `math` `number theory` `*1000` | May/08/2021 23:28 | 
+441 | [A - In-game Chat](https://codeforces.com/contest/1465/problem/A) | [GNU C++17 (64)](./codeforces/1465/A.cpp) | `implementation` `strings` `*800` | May/08/2021 23:13 | 
+440 | [A - Nastia and Nearly Good Numbers](https://codeforces.com/contest/1521/problem/A) | [GNU C++17 (64)](./codeforces/1521/A.cpp) | `constructive algorithms` `math` `number theory` `*1000` | May/07/2021 20:48 | 
+439 | [F1 - Guess the K-th Zero (Easy version)](https://codeforces.com/contest/1520/problem/F1) | [GNU C++17 (64)](./codeforces/1520/F1.cpp) | `binary search` `interactive` `*1600` | May/05/2021 21:27 | 
+438 | [E - Arranging The Sheep](https://codeforces.com/contest/1520/problem/E) | [GNU C++17 (64)](./codeforces/1520/E.cpp) | `greedy` `math` `*1400` | May/05/2021 21:06 | 
+437 | [C - Not Adjacent Matrix](https://codeforces.com/contest/1520/problem/C) | [GNU C++17 (64)](./codeforces/1520/C.cpp) | `constructive algorithms` `*1000` | May/05/2021 20:49 | 
+436 | [D - Same Differences](https://codeforces.com/contest/1520/problem/D) | [GNU C++17 (64)](./codeforces/1520/D.cpp) | `data structures` `hashing` `math` `*1200` | May/05/2021 20:30 | 
+435 | [B - Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | [GNU C++17 (64)](./codeforces/1520/B.cpp) | `brute force` `math` `number theory` `*800` | May/05/2021 20:17 | 
+434 | [A - Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | [GNU C++17 (64)](./codeforces/1520/A.cpp) | `brute force` `implementation` `*800` | May/05/2021 20:08 | 
+433 | [C - Multiplicity](https://codeforces.com/contest/1061/problem/C) | [GNU C++17 (64)](./codeforces/1061/C.cpp) | `data structures` `dp` `implementation` `math` `number theory` `*1700` | May/04/2021 21:35 | 
 432 | [D - New Year and the Permutation Concatenation](https://codeforces.com/contest/1091/problem/D) | [GNU C++17 (64)](./codeforces/1091/D.cpp) | `combinatorics` `dp` `math` `*1700` | May/03/2021 23:16 | 
 431 | [D - Phoenix and Socks](https://codeforces.com/contest/1515/problem/D) | [GNU C++17 (64)](./codeforces/1515/D.cpp) | `greedy` `sortings` `two pointers` `*1500` | May/02/2021 21:33 | 
 430 | [C - Phoenix and Towers](https://codeforces.com/contest/1515/problem/C) | [GNU C++17 (64)](./codeforces/1515/C.cpp) | `constructive algorithms` `data structures` `greedy` `*1400` | May/02/2021 20:44 | 
