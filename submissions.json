@@ -3864,6 +3864,23 @@
     ],
     "timestamp": "May/03/2021 23:16"
   },
+  "CF115803925": {
+    "contest_id": 1521,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1521\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Nastia and a Hidden Permutation",
+    "problem_url": "https://codeforces.com/contest/1521/problem/C",
+    "submission_id": "CF115803925",
+    "submission_url": "https://codeforces.com/contest/1521/submission/115803925",
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "*2000"
+    ],
+    "timestamp": "May/09/2021 21:44"
+  },
   "CF115814543": {
     "contest_id": 1516,
     "language": "GNU C++17 (64)",
