@@ -275,9 +275,9 @@ ll dfs(ll curr,ll parent,vector<unordered_set<ll>>& graph,vector<ll>& answ)
        }
        else if(v2==2)
        {
-        //    break current from parent
-        // this will form a new component connection to which can be made
-        // using a edge to prev
+            // break edge from parent  to curr
+            // make an edge from prev to it;
+            // carry on 
             answ.pb(curr);
             answ.pb(parent);
             answ.pb(prev);
@@ -287,8 +287,6 @@ ll dfs(ll curr,ll parent,vector<unordered_set<ll>>& graph,vector<ll>& answ)
        }
        else
        {
-            // Break current edge i.e. from current to it
-            // It can be again connected 
             answ.pb(curr);
             answ.pb(it);
             answ.pb(it);
