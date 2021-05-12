@@ -321,7 +321,7 @@ signed main(int argc, char** argv)
             ll ans=1;
             lft--;
             rgt--;
-            FORDE(i,v1,0)
+            FORDE(i,v1-1,0)
             {
                 if(dp[lft][i]<=rgt)
                 {
