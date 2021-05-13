@@ -6,7 +6,7 @@ using namespace std;
 using namespace __gnu_pbds; 
 
 typedef     unsigned long long int ull;
-typedef      int    ll;
+typedef     long long int    ll;
 typedef     long double      ld;
 typedef     pair<ll,ll>      pll;
 #define     FOR(i,a,b)       for(ll i=a;i<b;i++)
@@ -86,7 +86,7 @@ ll modInverse(ll n, ll p)
 //         naturalNumInverse[i] = naturalNumInverse[p % i] * (p - p / i) % p; 
 // } 
 // // Function to precompute inverse of factorials 
-// void InverseofFactorial(ll p=MOD) 
+// void Inverseofactorial(ll p=MOD) 
 // { 
 //     factorialNumInverse[0] = factorialNumInverse[1] = 1; 
   
@@ -264,7 +264,7 @@ void dfs(ll curr,ll par,ll dpth,vector<vector<ll>>& graph)
     {   
         if(u!=par)
         {
-            depth[u]=depth[curr]+1;
+            depth[u]= depth[curr]+1;
             dfs(u,curr,dpth+1,graph);
         }
     }   
@@ -349,7 +349,6 @@ signed main(int argc, char** argv)
 
             if(depth[node]<k)
             {
-                
                 cout<<0<<" ";
             }
             else
@@ -362,54 +361,28 @@ signed main(int argc, char** argv)
                         anc=dp[anc][i];
                     }
                 }
-               
-                
-
-
-                ll ans=0;
-                // cout<<node<<" "<<anc<<" "<<entry_time[anc]<<" "<<exit_time[anc]<<" "<<ans<<endl;
-                // cout<<depth[node]<<" "<<v3<<endl;
-                
-                ll low=-1;
-                ll high=(int)strg[depth[node]].size();
-                
-                // calculate the first entering one
-                while(high-low>1)
-                {
-                    ll mid=(low+high)/2;
-
-                    if(strg[depth[node]][mid].f<entry_time[anc])
-                    {
-                        low=mid;
-
-                    }
-                    else
-                    {
-                        high=mid;
-                    }
+                 int lo = -1,hi = (int)strg[depth[node]].size();
+            while(hi - lo > 1){
+                int mid = (lo+hi)/2;
+                if(strg[depth[node]][mid].f < entry_time[anc]){
+                    lo = mid;
                 }
-                ll v45=high;
-
-                low=-1;
-                high=(int)strg[depth[node]].size();
-                // calculate the last exiting one
-                while(high-low>1)
-                {
-                    ll mid=(low+high)/2;
-                    if(strg[depth[node]][mid].f<=exit_time[anc])
-                    {
-                        low=mid;
-                    }
-                    else
-                    {
-                        high=mid;
-                    }
+                else{
+                    hi = mid;
                 }
-
-
-                // cout<<node<<" "<<anc<<" "<<entry_time[anc]<<" "<<exit_time[anc]<<" "<<ans<<endl;
-                // cout<<anc<<" "<<ans<<endl;
-                cout<<low-v45<<" ";
+            }
+            int id1 = hi;
+            lo = - 1,hi = (int)strg[depth[node]].size();
+            while(hi - lo > 1){
+                int mid = (lo+hi)/2;
+                if(strg[depth[node]][mid].f <= exit_time[anc]){
+                    lo = mid;
+                }
+                else{
+                    hi = mid;
+                }
+            }
+            cout<<lo-id1<<" ";
 
             }
         }
