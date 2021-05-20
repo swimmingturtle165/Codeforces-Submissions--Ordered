@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-455 | [C - Parsa's Humongous Tree](https://codeforces.com/contest/1529/problem/C) | [GNU C++17 (64)](./codeforces/1529/C.cpp) | `dfs and similar` `dp` `trees` | May/24/2021 23:57 | 
-454 | [B - Sifid and Strange Subsequences](https://codeforces.com/contest/1529/problem/B) | [GNU C++17 (64)](./codeforces/1529/B.cpp) | `greedy` `sortings` | May/24/2021 20:48 | 
-453 | [A - Eshag Loves Big Arrays](https://codeforces.com/contest/1529/problem/A) | [GNU C++17 (64)](./codeforces/1529/A.cpp) | `constructive algorithms` `greedy` | May/24/2021 20:22 | 
-452 | [C - Sequence Pair Weight](https://codeforces.com/contest/1527/problem/C) | [GNU C++17 (64)](./codeforces/1527/C.cpp) | `hashing` `implementation` `math` `*1600` | May/20/2021 21:45 | 
-451 | [B1 - Palindrome Game (easy version)](https://codeforces.com/contest/1527/problem/B1) | [GNU C++17 (64)](./codeforces/1527/B1.cpp) | `constructive algorithms` `games` `*1200` | May/20/2021 20:50 | 
+456 | [C - Parsa's Humongous Tree](https://codeforces.com/contest/1529/problem/C) | [GNU C++17 (64)](./codeforces/1529/C.cpp) | `dfs and similar` `dp` `trees` | May/24/2021 23:57 | 
+455 | [B - Sifid and Strange Subsequences](https://codeforces.com/contest/1529/problem/B) | [GNU C++17 (64)](./codeforces/1529/B.cpp) | `greedy` `sortings` | May/24/2021 20:48 | 
+454 | [A - Eshag Loves Big Arrays](https://codeforces.com/contest/1529/problem/A) | [GNU C++17 (64)](./codeforces/1529/A.cpp) | `constructive algorithms` `greedy` | May/24/2021 20:22 | 
+453 | [C - Sequence Pair Weight](https://codeforces.com/contest/1527/problem/C) | [GNU C++17 (64)](./codeforces/1527/C.cpp) | `hashing` `implementation` `math` `*1600` | May/20/2021 21:45 | 
+452 | [B1 - Palindrome Game (easy version)](https://codeforces.com/contest/1527/problem/B1) | [GNU C++17 (64)](./codeforces/1527/B1.cpp) | `constructive algorithms` `games` `*1200` | May/20/2021 20:50 | 
+451 | [A - And Then There Were K](https://codeforces.com/contest/1527/problem/A) | [GNU C++17 (64)](./codeforces/1527/A.cpp) | `bitmasks` `*800` | May/20/2021 20:24 | 
 450 | [E - Blood Cousins](https://codeforces.com/contest/208/problem/E) | [GNU C++17 (64)](./codeforces/208/E.cpp) | `binary search` `data structures` `dfs and similar` `trees` `*2100` | May/13/2021 19:34 | 
 449 | [D - Cut](https://codeforces.com/contest/1516/problem/D) | [GNU C++17 (64)](./codeforces/1516/D.cpp) | `binary search` `data structures` `dp` `graphs` `number theory` `two pointers` `*2100` | May/12/2021 23:53 | 
 448 | [D - Nastia Plays with a Tree](https://codeforces.com/contest/1521/problem/D) | [GNU C++17 (64)](./codeforces/1521/D.cpp) | `constructive algorithms` `data structures` `dfs and similar` `dp` `dsu` `greedy` `implementation` `trees` `*2500` | May/11/2021 22:15 | 
