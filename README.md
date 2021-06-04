@@ -12,12 +12,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-470 | [D - Playoff Tournament](https://codeforces.com/contest/1535/problem/D) | [GNU C++17 (64)](./codeforces/1535/D.cpp) | `data structures` `dfs and similar` `dp` `implementation` `trees` `*1800` | Jun/07/2021 11:26 | 
-469 | [A - Omkar and Bad Story](https://codeforces.com/contest/1536/problem/A) | [GNU C++17 (64)](./codeforces/1536/A.cpp) | `brute force` `constructive algorithms` `*800` | Jun/06/2021 23:04 | 
-468 | [C - Diluc and Kaeya](https://codeforces.com/contest/1536/problem/C) | [GNU C++17 (64)](./codeforces/1536/C.cpp) | `dp` `hashing` `number theory` `*1500` | Jun/06/2021 21:54 | 
-467 | [B - Prinzessin der Verurteilung](https://codeforces.com/contest/1536/problem/B) | [GNU C++17 (64)](./codeforces/1536/B.cpp) | `brute force` `strings` `*1200` | Jun/06/2021 20:57 | 
-466 | [C - Unstable String](https://codeforces.com/contest/1535/problem/C) | [GNU C++17 (64)](./codeforces/1535/C.cpp) | `binary search` `dp` `greedy` `implementation` `strings` `two pointers` `*1400` | Jun/04/2021 21:13 | 
-465 | [B - Array Reodering](https://codeforces.com/contest/1535/problem/B) | [GNU C++17 (64)](./codeforces/1535/B.cpp) | `brute force` `greedy` `math` `number theory` `sortings` `*900` | Jun/04/2021 20:21 | 
+471 | [D - Playoff Tournament](https://codeforces.com/contest/1535/problem/D) | [GNU C++17 (64)](./codeforces/1535/D.cpp) | `data structures` `dfs and similar` `dp` `implementation` `trees` `*1800` | Jun/07/2021 11:26 | 
+470 | [A - Omkar and Bad Story](https://codeforces.com/contest/1536/problem/A) | [GNU C++17 (64)](./codeforces/1536/A.cpp) | `brute force` `constructive algorithms` `*800` | Jun/06/2021 23:04 | 
+469 | [C - Diluc and Kaeya](https://codeforces.com/contest/1536/problem/C) | [GNU C++17 (64)](./codeforces/1536/C.cpp) | `dp` `hashing` `number theory` `*1500` | Jun/06/2021 21:54 | 
+468 | [B - Prinzessin der Verurteilung](https://codeforces.com/contest/1536/problem/B) | [GNU C++17 (64)](./codeforces/1536/B.cpp) | `brute force` `strings` `*1200` | Jun/06/2021 20:57 | 
+467 | [C - Unstable String](https://codeforces.com/contest/1535/problem/C) | [GNU C++17 (64)](./codeforces/1535/C.cpp) | `binary search` `dp` `greedy` `implementation` `strings` `two pointers` `*1400` | Jun/04/2021 21:13 | 
+466 | [B - Array Reodering](https://codeforces.com/contest/1535/problem/B) | [GNU C++17 (64)](./codeforces/1535/B.cpp) | `brute force` `greedy` `math` `number theory` `sortings` `*900` | Jun/04/2021 20:21 | 
+465 | [A - Fair Playoff](https://codeforces.com/contest/1535/problem/A) | [GNU C++17 (64)](./codeforces/1535/A.cpp) | `brute force` `implementation` `*800` | Jun/04/2021 20:10 | 
 464 | [C - Parsa's Humongous Tree](https://codeforces.com/contest/1529/problem/C) | [GNU C++17 (64)](./codeforces/1529/C.cpp) | `dfs and similar` `dp` `trees` | May/24/2021 23:57 | 
 463 | [B - Sifid and Strange Subsequences](https://codeforces.com/contest/1529/problem/B) | [GNU C++17 (64)](./codeforces/1529/B.cpp) | `greedy` `sortings` | May/24/2021 20:48 | 
 462 | [A - Eshag Loves Big Arrays](https://codeforces.com/contest/1529/problem/A) | [GNU C++17 (64)](./codeforces/1529/A.cpp) | `constructive algorithms` `greedy` | May/24/2021 20:22 | 
