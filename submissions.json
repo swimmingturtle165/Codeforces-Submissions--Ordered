@@ -4523,6 +4523,24 @@
     ],
     "timestamp": "May/24/2021 23:57"
   },
+  "CF118648488": {
+    "contest_id": 1536,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1536\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Diluc and Kaeya",
+    "problem_url": "https://codeforces.com/contest/1536/problem/C",
+    "submission_id": "CF118648488",
+    "submission_url": "https://codeforces.com/contest/1536/submission/118648488",
+    "tags": [
+      "dp",
+      "hashing",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Jun/06/2021 21:54"
+  },
   "CF118657110": {
     "contest_id": 1536,
     "language": "GNU C++17 (64)",
