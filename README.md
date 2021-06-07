@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+465 | [D - Playoff Tournament](https://codeforces.com/contest/1535/problem/D) | [GNU C++17 (64)](./codeforces/1535/D.cpp) | `data structures` `dfs and similar` `dp` `implementation` `trees` `*1800` | Jun/07/2021 11:26 | 
 464 | [C - Parsa's Humongous Tree](https://codeforces.com/contest/1529/problem/C) | [GNU C++17 (64)](./codeforces/1529/C.cpp) | `dfs and similar` `dp` `trees` | May/24/2021 23:57 | 
 463 | [B - Sifid and Strange Subsequences](https://codeforces.com/contest/1529/problem/B) | [GNU C++17 (64)](./codeforces/1529/B.cpp) | `greedy` `sortings` | May/24/2021 20:48 | 
 462 | [A - Eshag Loves Big Arrays](https://codeforces.com/contest/1529/problem/A) | [GNU C++17 (64)](./codeforces/1529/A.cpp) | `constructive algorithms` `greedy` | May/24/2021 20:22 | 
