@@ -4864,6 +4864,24 @@
     ],
     "timestamp": "Jun/07/2021 11:26"
   },
+  "CF119089900": {
+    "contest_id": 1538,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1538\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Interesting Function",
+    "problem_url": "https://codeforces.com/contest/1538/problem/F",
+    "submission_id": "CF119089900",
+    "submission_url": "https://codeforces.com/contest/1538/submission/119089900",
+    "tags": [
+      "binary search",
+      "dp",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Jun/11/2021 00:09"
+  },
   "CF119094851": {
     "contest_id": 1538,
     "language": "GNU C++17 (64)",
