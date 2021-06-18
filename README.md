@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-492 | [D - Deleting Divisors](https://codeforces.com/contest/1537/problem/D) | [GNU C++17 (64)](./codeforces/1537/D.cpp) | `games` `math` `number theory` | Jun/19/2021 10:46 | 
-491 | [E1 - Erase and Extend (Easy Version)](https://codeforces.com/contest/1537/problem/E1) | [GNU C++17 (64)](./codeforces/1537/E1.cpp) | `binary search` `brute force` `dp` `greedy` `hashing` `string suffix structures` `strings` | Jun/19/2021 10:27 | 
-490 | [C - Challenging Cliffs](https://codeforces.com/contest/1537/problem/C) | [GNU C++17 (64)](./codeforces/1537/C.cpp) | `greedy` `implementation` `math` | Jun/18/2021 21:19 | 
-489 | [B - Bad Boy](https://codeforces.com/contest/1537/problem/B) | [GNU C++17 (64)](./codeforces/1537/B.cpp) | `constructive algorithms` `greedy` `math` | Jun/18/2021 20:29 | 
+493 | [D - Deleting Divisors](https://codeforces.com/contest/1537/problem/D) | [GNU C++17 (64)](./codeforces/1537/D.cpp) | `games` `math` `number theory` | Jun/19/2021 10:46 | 
+492 | [E1 - Erase and Extend (Easy Version)](https://codeforces.com/contest/1537/problem/E1) | [GNU C++17 (64)](./codeforces/1537/E1.cpp) | `binary search` `brute force` `dp` `greedy` `hashing` `string suffix structures` `strings` | Jun/19/2021 10:27 | 
+491 | [C - Challenging Cliffs](https://codeforces.com/contest/1537/problem/C) | [GNU C++17 (64)](./codeforces/1537/C.cpp) | `greedy` `implementation` `math` | Jun/18/2021 21:19 | 
+490 | [B - Bad Boy](https://codeforces.com/contest/1537/problem/B) | [GNU C++17 (64)](./codeforces/1537/B.cpp) | `constructive algorithms` `greedy` `math` | Jun/18/2021 20:29 | 
+489 | [A - Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | [GNU C++17 (64)](./codeforces/1537/A.cpp) | `greedy` `math` | Jun/18/2021 20:08 | 
 488 | [D - Another Problem About Dividing Numbers](https://codeforces.com/contest/1538/problem/D) | [GNU C++17 (64)](./codeforces/1538/D.cpp) | `constructive algorithms` `math` `number theory` | Jun/11/2021 01:14 | 
 487 | [F - Interesting Function](https://codeforces.com/contest/1538/problem/F) | [GNU C++17 (64)](./codeforces/1538/F.cpp) | `binary search` `dp` `math` `number theory` | Jun/11/2021 00:09 | 
 486 | [C - Number of Pairs](https://codeforces.com/contest/1538/problem/C) | [GNU C++17 (64)](./codeforces/1538/C.cpp) | `binary search` `data structures` `math` `two pointers` | Jun/10/2021 20:39 | 
