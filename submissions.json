@@ -5111,6 +5111,25 @@
     ],
     "timestamp": "Jun/19/2021 10:46"
   },
+  "CF120125773": {
+    "contest_id": 1539,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1539\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "PriceFixed",
+    "problem_url": "https://codeforces.com/contest/1539/problem/D",
+    "submission_id": "CF120125773",
+    "submission_url": "https://codeforces.com/contest/1539/submission/120125773",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "ternary search",
+      "two pointers"
+    ],
+    "timestamp": "Jun/20/2021 18:35"
+  },
   "CF69913967": {
     "contest_id": 1234,
     "language": "GNU C++17",
