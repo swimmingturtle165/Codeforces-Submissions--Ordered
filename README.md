@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-502 | [C - Strange Function](https://codeforces.com/contest/1542/problem/C) | [GNU C++17 (64)](./codeforces/1542/C.cpp) | `math` `number theory` | Jul/03/2021 19:54 | 
-501 | [B - Plus and Multiply](https://codeforces.com/contest/1542/problem/B) | [GNU C++17 (64)](./codeforces/1542/B.cpp) | `constructive algorithms` `math` `number theory` | Jul/03/2021 18:42 | 
+503 | [C - Strange Function](https://codeforces.com/contest/1542/problem/C) | [GNU C++17 (64)](./codeforces/1542/C.cpp) | `math` `number theory` | Jul/03/2021 19:54 | 
+502 | [B - Plus and Multiply](https://codeforces.com/contest/1542/problem/B) | [GNU C++17 (64)](./codeforces/1542/B.cpp) | `constructive algorithms` `math` `number theory` | Jul/03/2021 18:42 | 
+501 | [A - Odd Set](https://codeforces.com/contest/1542/problem/A) | [GNU C++17 (64)](./codeforces/1542/A.cpp) | `math` | Jul/03/2021 18:37 | 
 500 | [D - PriceFixed](https://codeforces.com/contest/1539/problem/D) | [GNU C++17 (64)](./codeforces/1539/D.cpp) | `binary search` `greedy` `sortings` `ternary search` `two pointers` | Jun/20/2021 18:35 | 
 499 | [C - Stable Groups](https://codeforces.com/contest/1539/problem/C) | [GNU C++17 (64)](./codeforces/1539/C.cpp) | `greedy` `math` `sortings` | Jun/20/2021 16:07 | 
 498 | [B - Love Song](https://codeforces.com/contest/1539/problem/B) | [GNU C++17 (64)](./codeforces/1539/B.cpp) | `data structures` `dp` `strings` | Jun/20/2021 15:52 | 
