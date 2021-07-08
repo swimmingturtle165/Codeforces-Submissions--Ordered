@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+504 | [D1 - RPD and Rap Sheet (Easy Version)](https://codeforces.com/contest/1543/problem/D1) | [GNU C++17 (64)](./codeforces/1543/D1.cpp) | `bitmasks` `constructive algorithms` `interactive` `math` | Jul/08/2021 15:27 | 
 503 | [C - Strange Function](https://codeforces.com/contest/1542/problem/C) | [GNU C++17 (64)](./codeforces/1542/C.cpp) | `math` `number theory` | Jul/03/2021 19:54 | 
 502 | [B - Plus and Multiply](https://codeforces.com/contest/1542/problem/B) | [GNU C++17 (64)](./codeforces/1542/B.cpp) | `constructive algorithms` `math` `number theory` | Jul/03/2021 18:42 | 
 501 | [A - Odd Set](https://codeforces.com/contest/1542/problem/A) | [GNU C++17 (64)](./codeforces/1542/A.cpp) | `math` | Jul/03/2021 18:37 | 
